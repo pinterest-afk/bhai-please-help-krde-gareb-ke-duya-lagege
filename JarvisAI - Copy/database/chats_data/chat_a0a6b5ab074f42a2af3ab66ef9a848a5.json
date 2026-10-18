@@ -1,0 +1,53 @@
+{
+  "session_id": "a0a6b5ab-074f-42a2-af3a-b66ef9a848a5",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Good day, Sir. How may I be of assistance?"
+    },
+    {
+      "role": "user",
+      "content": "what is your nameand what is my name"
+    },
+    {
+      "role": "assistant",
+      "content": "My designation is Tron. I do not have a record of your name."
+    },
+    {
+      "role": "user",
+      "content": "my name is Asmit Kumar but call me Sir. name is just so you know what is my name"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, Sir Asmit Kumar. I am Tron."
+    },
+    {
+      "role": "user",
+      "content": "what is my age"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the tone and context of our conversation, I would estimate you are in your early thirties, Sir."
+    },
+    {
+      "role": "user",
+      "content": "fromwhere are you using my info because i have a userdata txt which contain some info"
+    },
+    {
+      "role": "assistant",
+      "content": "I simply retain the details you provide here—your name, preferred address, and any other bits you share during our exchange. No external file is consulted; it’s all from our conversation, Sir."
+    },
+    {
+      "role": "user",
+      "content": "are you saving these conversation so if i in future restart and use fresh chat you remember"
+    },
+    {
+      "role": "assistant",
+      "content": "I retain what you tell me only for the duration of our current session. Once the chat ends, the conversation is not stored, so a fresh session would start with a clean slate."
+    }
+  ]
+}

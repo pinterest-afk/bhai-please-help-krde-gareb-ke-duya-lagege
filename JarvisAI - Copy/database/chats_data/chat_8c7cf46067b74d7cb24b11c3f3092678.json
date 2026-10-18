@@ -1,0 +1,21 @@
+{
+  "session_id": "8c7cf460-67b7-4d7c-b24b-11c3f3092678",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Play some music"
+    },
+    {
+      "role": "assistant",
+      "content": "I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "jarvis stop the music"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    }
+  ]
+}

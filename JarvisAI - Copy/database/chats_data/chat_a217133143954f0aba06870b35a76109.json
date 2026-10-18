@@ -1,0 +1,21 @@
+{
+  "session_id": "a2171331-4395-4f0a-ba06-870b35a76109",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, search the web, open sites or apps, play music or videos, generate text or images, write code, essays, emails, and help you plan or analyze ideas—all through text on your Windows laptop. Just tell me what you need, Sir."
+    },
+    {
+      "role": "user",
+      "content": "stop"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    }
+  ]
+}

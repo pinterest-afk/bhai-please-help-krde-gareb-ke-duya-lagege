@@ -1,0 +1,13 @@
+{
+  "session_id": "2e625912-785f-497a-8565-95918b6ec3c8",
+  "messages": [
+    {
+      "role": "user",
+      "content": "open YT and play hind ke sitara"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you. I've started playing that for you."
+    }
+  ]
+}

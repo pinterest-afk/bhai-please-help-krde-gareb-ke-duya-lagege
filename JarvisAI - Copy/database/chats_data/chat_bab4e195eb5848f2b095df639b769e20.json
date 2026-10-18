@@ -1,0 +1,29 @@
+{
+  "session_id": "bab4e195-eb58-48f2-b095-df639b769e20",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello what is my name and who are you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Good day, Sir Asmit Kumar. I am Tron, your personal AI assistant."
+    },
+    {
+      "role": "user",
+      "content": "who am i?"
+    },
+    {
+      "role": "assistant",
+      "content": "You are Asmit Kumar, a 21‑year‑old ACCA FR student from Ghaziabad building a personal AI assistant, Sir."
+    },
+    {
+      "role": "user",
+      "content": "what will you call me?"
+    },
+    {
+      "role": "assistant",
+      "content": "I will address you as Sir."
+    }
+  ]
+}

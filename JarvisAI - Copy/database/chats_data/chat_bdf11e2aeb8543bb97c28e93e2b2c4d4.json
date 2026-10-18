@@ -1,0 +1,93 @@
+{
+  "session_id": "bdf11e2a-eb85-43bb-97c2-8e93e2b2c4d4",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, search the web, open sites or apps, play music or videos, generate text or images, write code, essays or emails, and help you plan or analyze ideas—all from your Windows laptop, Sir."
+    },
+    {
+      "role": "user",
+      "content": "open instagram, play hind ke sitara, and open amazon i want to purchase iphone X"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Instagram and Amazon for you. I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "open instagram, play hind ke sitara, and open amazon i want to purchase iphone X"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Instagram and Amazon for you. I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "open instagram, play hind ke sitara, and open amazon i want to purchase iphone X"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Instagram and Amazon for you. I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "open amazon and search for iphone 16 pro"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "open amazon search for iphone 16 pro"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "open amazon and search for iphone 16 pro"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "close YT tab"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "open amazon and search for iphone 16 pro"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "play shape of you"
+    },
+    {
+      "role": "assistant",
+      "content": "I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "what were we talking about in last message"
+    },
+    {
+      "role": "assistant",
+      "content": "We were just playing the song “Shape of You.”"
+    }
+  ]
+}
